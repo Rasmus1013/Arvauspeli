@@ -22,4 +22,5 @@ public class Arvauspeli {
             }
         }
     }
+System.out.println("Thanks for playing!");
 }
