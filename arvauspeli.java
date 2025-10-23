@@ -1,3 +1,4 @@
+// Tämä on Arvauspeli-ohjelma. Käyttäjä yrittää arvata nimen.
 import java.util.Scanner;
 
 public class Arvauspeli {
